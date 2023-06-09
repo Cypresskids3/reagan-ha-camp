@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+#title{
+    display: flex;
+    padding-top: 150px;
+    font-size: 100px;
+    position: absolute;
+}
+
+.bibble{
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    align-items: center;
+    width: 2500px;
+    height: 353px;
+    background-color: #52CBDC;
+    padding-top: 13px;
+    padding-bottom: 40px;
+
+
+}
+.idk{
+    padding-top: 150px;
+}
+
+#click{
+    display: flex;
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 550px;
+    font-size: 30px;
+}
+
+.something{
+    display: flex;
+    flex-direction: row;
+} 
+
+.bibble-types{
+    display: flex;
+    flex-direction: row;
+    padding-right: 250px;
+    justify-content: center;
+}
+
+.bibble-types1{
+    padding-right:400px; 
+}
+.image{
+    margin-left: 1400px;
+    size-adjust: 50px;
+}
+
+.space{
+    padding-right: 110px;
+}
